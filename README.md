@@ -1,4 +1,4 @@
-<h1 align="center">👋 Welcome to my GitHub profile!</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&random=false&width=435&lines=%F0%9F%91%8B+Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
 
 - 📫 How to reach me? - **bozhidarivanov24@gmail.com**
 
