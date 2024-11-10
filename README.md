@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&random=false&width=435&lines=%F0%9F%91%8B+Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&random=false&width=435&lines=%F0%9F%91%8B+Welcome+to+my+profile!)](https://git.io/typing-svg)
 
 - 📫 How to reach me? - **bozhidarivanov24@gmail.com**
 - 🌳 Some of my social media, that I use: **[https://linktr.ee/b0zh1d4r](https://linktr.ee/b0zh1d4r)**
