@@ -1,13 +1,13 @@
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=random"  />
 </div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&random=false&width=435&lines=%F0%9F%91%8B+Welcome+to+my+profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code+&pause=250&width=435&lines=%F0%9F%91%8B+Hi!;Welcome+to+my+profile!;Feel+free+to+reach+me+out.)](https://git.io/typing-svg)
 
-- 📫 How to reach me? - **bozhidarivanov24@gmail.com**
-- 🌳 Some of my social media that I use: **[https://linktr.ee/b0zh1d4r](https://linktr.ee/b0zh1d4r)**
+- 📫 How to connect with me? - **bozhidarivanov24@gmail.com**
+- 🌳 You can also contact me through any of these ways: **[https://linktr.ee/b0zh1d4r](https://linktr.ee/b0zh1d4r)**
 
-<h3 align="left">Some languages and tools that I use:</h3>
+<h3 align="left">Some of the languages ​​and tools that I mostly use:</h3>
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
